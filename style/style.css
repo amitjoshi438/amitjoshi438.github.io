@@ -1,0 +1,46 @@
+html
+{
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #40a6c3;
+}
+body
+{
+	width: 600px;
+	margin: 25px auto;
+	padding: 0 20px 20px 20px;
+	background-color: white;
+	border: 5px solid black;
+	border-radius: 10px;
+}
+h1
+{
+	font-size: 60px;
+	text-align: center;
+	color: #40a6c3;
+	/*margin: 0;*/
+	padding: 0 20px;
+	text-shadow: 3px 3px 2px black;
+}
+p,li
+{
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+img
+{
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+button
+{
+	box-shadow: 3px 3px 2px black;
+	border-radius: 10px;
+	color: blue;
+}
+a:hover
+{
+	color: green;
+}
